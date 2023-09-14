@@ -17,3 +17,7 @@ El LED Bar Graph muestra datos en forma de barras luminosas. Cuanto mayor sea el
 ## Proyectos
 
 El LED Bar Graph se utiliza comúnmente en proyectos de electrónica y robótica para mostrar información de sensores, niveles de batería, volumen de sonido, entre otros.
+
+
+
+Garcia Torres Omar 20210567

@@ -1,6 +1,6 @@
 # LED Bar Graph Presentation
 
-![LEDBAR](LEDBAR.jpg)
+![LEDBAR](https://cdn.shopify.com/s/files/1/0122/7558/0986/products/030172_GIF_1024x1024.gif?v=1588645375)
 
 ## Descripción
 
